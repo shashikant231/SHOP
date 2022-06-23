@@ -3,7 +3,7 @@
 
 Open terminal : ctrl+alt+T \
 Inside new Folder
-git clone 
+git clone https://github.com/shashikant231/shop.git
 
  ### Set up virtualenv
 To create  - virtualenv env \
