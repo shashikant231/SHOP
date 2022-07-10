@@ -1,2 +1,3 @@
-# Environments folder
+#environment folder
 env/
+.env
